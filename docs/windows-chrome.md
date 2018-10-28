@@ -1,6 +1,4 @@
-# Shortcuts in Chrome on Windows
-
-## Global
+#### Global
 Shortcuts that work from anywhere in the program
 * `F6` - switch focus to the omnibar
 * `^ + J` - open Downloads
@@ -17,7 +15,7 @@ cache from here
 * `shift + alt + tab` - switch to the previous 
 tab
 
-## Omnibar
+#### Omnibar
 Shortcuts for use in the omnibar
 * `tab` - autocomplete to the next suggestion. 
 Can be used multiple time to cycle through 
@@ -25,7 +23,7 @@ suggestions.
 * `:` - adding : to the end of a site name will usually allow you to search that site. For example, 
 `YouTube: searchterm` will search on YouTube instead of the default search engine.
 
-## Text
+#### Text
 Keyboard shortcuts for working with text
 * `^ + A` - select all (in the current field)
 * `shift + arrow keys` - Extend highlight in the direction pressed.
