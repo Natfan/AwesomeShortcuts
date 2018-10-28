@@ -1,4 +1,4 @@
-# SHortcuts in Chrome on Windows
+# Shortcuts in Chrome on Windows
 
 ## Global
 Shortcuts that work from anywhere in the program
@@ -25,7 +25,7 @@ suggestions.
 * `:` - adding : to the end of a site name will usually allow you to search that site. For example, 
 `YouTube: searchterm` will search on YouTube instead of the default search engine.
 
-##Text
+## Text
 Keyboard shortcuts for working with text
 * `^ + A` - select all (in the current field)
 * `shift + arrow keys` - Extend highlight in the direction pressed.
