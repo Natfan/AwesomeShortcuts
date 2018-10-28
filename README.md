@@ -1,6 +1,8 @@
 # AwesomeShortcuts
 An Awesome list of shortcuts, open for the community to edit!
 
+Docs here are served up on https://shortcuts.natfan.io. Updated every pull request.
+
 ## Contributing
 Clone the repo, online, via your preferred client, or with this command;
 
