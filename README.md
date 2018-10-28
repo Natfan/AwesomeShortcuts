@@ -14,4 +14,4 @@ Then commit your changes, explaining what you did;
 
 `git add -m "added shortcuts for program y"`
 
-Then make a pull request! You'll be notified when we merge your contribution.
+Then make a pull request! Add @Natfan or @ryankrage77 as a reviewer to get our attention. You'll be notified when we merge your contribution.
