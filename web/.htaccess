@@ -1,3 +1,5 @@
+RedirectMatch "^/contribute$" "https://github.com/Natfan/AwesomeShortcuts"
+
 RewriteEngine on
 
 RewriteCond %{REQUEST_FILENAME} !-f
@@ -11,9 +13,6 @@ RewriteRule ^(.+)?\.txt$ /$1 [NC,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.+)?\.md$ /$1 [NC,L]
-
-RewriteCond %{REQUEST_URI} ^/(posts)/
-RewriteRule ^ - [L,R=403]
 
 php_flag display_startup_errors on
 php_flag display_errors on
